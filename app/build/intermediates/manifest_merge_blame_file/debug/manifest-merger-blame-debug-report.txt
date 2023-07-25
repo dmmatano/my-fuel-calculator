@@ -1,0 +1,256 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myfuelcalculator"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+12-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:6:5-76
+12-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:7:5-67
+13-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:7:22-64
+14
+15    <queries>
+15-->[androidx.camera:camera-extensions:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\d13fc0f55bf6a8e42b899bf5474c7a83\transformed\camera-extensions-1.1.0-beta01\AndroidManifest.xml:24:5-28:15
+16        <intent>
+16-->[androidx.camera:camera-extensions:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\d13fc0f55bf6a8e42b899bf5474c7a83\transformed\camera-extensions-1.1.0-beta01\AndroidManifest.xml:25:9-27:18
+17            <action android:name="androidx.camera.extensions.action.VENDOR_ACTION" />
+17-->[androidx.camera:camera-extensions:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\d13fc0f55bf6a8e42b899bf5474c7a83\transformed\camera-extensions-1.1.0-beta01\AndroidManifest.xml:26:13-86
+17-->[androidx.camera:camera-extensions:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\d13fc0f55bf6a8e42b899bf5474c7a83\transformed\camera-extensions-1.1.0-beta01\AndroidManifest.xml:26:21-83
+18        </intent>
+19        <!-- Needs to be explicitly declared on Android R+ -->
+20        <package android:name="com.google.android.apps.maps" />
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+21    </queries> <!-- Include required permissions for Google Maps API to run. -->
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+23
+24    <uses-feature
+24-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+25        android:glEsVersion="0x00020000"
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+26        android:required="true" />
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+27
+28    <permission
+28-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.example.myfuelcalculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.example.myfuelcalculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:9:5-34:19
+35        android:allowBackup="true"
+35-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:10:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.9.0] C:\Users\Asus\.gradle\caches\transforms-3\1590658bfeed3ef23a4eb68203c552c0\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+37        android:dataExtractionRules="@xml/data_extraction_rules"
+37-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:11:9-65
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:fullBackupContent="@xml/backup_rules"
+40-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:12:9-54
+41        android:icon="@mipmap/ic_launcher"
+41-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:13:9-43
+42        android:label="@string/app_name"
+42-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:14:9-41
+43        android:supportsRtl="true"
+43-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:15:9-35
+44        android:testOnly="true"
+45        android:theme="@style/Theme.MyFuelCalculator" >
+45-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:16:9-54
+46        <activity
+46-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:18:9-26:20
+47            android:name="com.example.myfuelcalculator.ui.SplashActivity"
+47-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:19:13-46
+48            android:exported="true"
+48-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:21:13-36
+49            android:theme="@style/Theme.MyFuelCalculator.Splash" >
+49-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:20:13-65
+50            <intent-filter>
+50-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:22:13-25:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:23:17-69
+51-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:23:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:24:17-77
+53-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:24:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:27:9-29:39
+57            android:name="com.example.myfuelcalculator.ui.MainActivity"
+57-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:28:13-44
+58            android:exported="true" />
+58-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:29:13-36
+59
+60        <meta-data
+60-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:31:9-33:57
+61            android:name="preloaded_fonts"
+61-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:32:13-43
+62            android:resource="@array/preloaded_fonts" />
+62-->C:\Users\Asus\AndroidStudioProjects\MyFuelCalculator\app\src\main\AndroidManifest.xml:33:13-54
+63
+64        <uses-library
+64-->[androidx.camera:camera-extensions:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\d13fc0f55bf6a8e42b899bf5474c7a83\transformed\camera-extensions-1.1.0-beta01\AndroidManifest.xml:31:9-33:40
+65            android:name="androidx.camera.extensions.impl"
+65-->[androidx.camera:camera-extensions:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\d13fc0f55bf6a8e42b899bf5474c7a83\transformed\camera-extensions-1.1.0-beta01\AndroidManifest.xml:32:13-59
+66            android:required="false" />
+66-->[androidx.camera:camera-extensions:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\d13fc0f55bf6a8e42b899bf5474c7a83\transformed\camera-extensions-1.1.0-beta01\AndroidManifest.xml:33:13-37
+67
+68        <service
+68-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\8d2549fdee80d8e8070a92b19a68b94e\transformed\camera-camera2-1.1.0-beta01\AndroidManifest.xml:26:9-35:19
+69            android:name="androidx.camera.core.impl.MetadataHolderService"
+69-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\8d2549fdee80d8e8070a92b19a68b94e\transformed\camera-camera2-1.1.0-beta01\AndroidManifest.xml:27:13-75
+70            android:enabled="false"
+70-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\8d2549fdee80d8e8070a92b19a68b94e\transformed\camera-camera2-1.1.0-beta01\AndroidManifest.xml:28:13-36
+71            android:exported="false" >
+71-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\8d2549fdee80d8e8070a92b19a68b94e\transformed\camera-camera2-1.1.0-beta01\AndroidManifest.xml:29:13-37
+72            <meta-data
+72-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\8d2549fdee80d8e8070a92b19a68b94e\transformed\camera-camera2-1.1.0-beta01\AndroidManifest.xml:32:13-34:89
+73                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+73-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\8d2549fdee80d8e8070a92b19a68b94e\transformed\camera-camera2-1.1.0-beta01\AndroidManifest.xml:33:17-103
+74                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+74-->[androidx.camera:camera-camera2:1.1.0-beta01] C:\Users\Asus\.gradle\caches\transforms-3\8d2549fdee80d8e8070a92b19a68b94e\transformed\camera-camera2-1.1.0-beta01\AndroidManifest.xml:34:17-86
+75        </service>
+76
+77        <provider
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+79            android:authorities="com.example.myfuelcalculator.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Asus\.gradle\caches\transforms-3\74e9a299b1039e89fa53989c6efb3d5d\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Asus\.gradle\caches\transforms-3\df7092bb9bae6bc7bb33df82729f57ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Asus\.gradle\caches\transforms-3\df7092bb9bae6bc7bb33df82729f57ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Asus\.gradle\caches\transforms-3\df7092bb9bae6bc7bb33df82729f57ff\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+89                android:value="androidx.startup" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+90        </provider> <!-- Needs to be explicitly declared on P+ -->
+91        <uses-library
+91-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+92            android:name="org.apache.http.legacy"
+92-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+93            android:required="false" />
+93-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\6836a356a63d95dd6d6d6ed7be42605b\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+94
+95        <activity
+95-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Asus\.gradle\caches\transforms-3\e11a97bed81874da8f83922525be9950\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+96            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+96-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Asus\.gradle\caches\transforms-3\e11a97bed81874da8f83922525be9950\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Asus\.gradle\caches\transforms-3\e11a97bed81874da8f83922525be9950\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Asus\.gradle\caches\transforms-3\e11a97bed81874da8f83922525be9950\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+99
+100        <meta-data
+100-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\09397aa2895e647478fac177cebaa9cb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+101            android:name="com.google.android.gms.version"
+101-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\09397aa2895e647478fac177cebaa9cb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+102            android:value="@integer/google_play_services_version" />
+102-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Asus\.gradle\caches\transforms-3\09397aa2895e647478fac177cebaa9cb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+103
+104        <uses-library
+104-->[androidx.window:window:1.0.0] C:\Users\Asus\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+105            android:name="androidx.window.extensions"
+105-->[androidx.window:window:1.0.0] C:\Users\Asus\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+106            android:required="false" />
+106-->[androidx.window:window:1.0.0] C:\Users\Asus\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+107        <uses-library
+107-->[androidx.window:window:1.0.0] C:\Users\Asus\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+108            android:name="androidx.window.sidecar"
+108-->[androidx.window:window:1.0.0] C:\Users\Asus\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+109            android:required="false" />
+109-->[androidx.window:window:1.0.0] C:\Users\Asus\.gradle\caches\transforms-3\4813f69f556428c58a4ece25e9164c62\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+110
+111        <service
+111-->[androidx.room:room-runtime:2.5.1] C:\Users\Asus\.gradle\caches\transforms-3\6e4de77aa49343ef80ad941b63c8fa72\transformed\room-runtime-2.5.1\AndroidManifest.xml:24:9-28:63
+112            android:name="androidx.room.MultiInstanceInvalidationService"
+112-->[androidx.room:room-runtime:2.5.1] C:\Users\Asus\.gradle\caches\transforms-3\6e4de77aa49343ef80ad941b63c8fa72\transformed\room-runtime-2.5.1\AndroidManifest.xml:25:13-74
+113            android:directBootAware="true"
+113-->[androidx.room:room-runtime:2.5.1] C:\Users\Asus\.gradle\caches\transforms-3\6e4de77aa49343ef80ad941b63c8fa72\transformed\room-runtime-2.5.1\AndroidManifest.xml:26:13-43
+114            android:exported="false" />
+114-->[androidx.room:room-runtime:2.5.1] C:\Users\Asus\.gradle\caches\transforms-3\6e4de77aa49343ef80ad941b63c8fa72\transformed\room-runtime-2.5.1\AndroidManifest.xml:27:13-37
+115
+116        <receiver
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+117            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+118            android:directBootAware="false"
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+119            android:enabled="true"
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+120            android:exported="true"
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+121            android:permission="android.permission.DUMP" >
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+122            <intent-filter>
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+123                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+124            </intent-filter>
+125            <intent-filter>
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+126                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+126-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+126-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+127            </intent-filter>
+128            <intent-filter>
+128-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+129                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+130            </intent-filter>
+131            <intent-filter>
+131-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+132                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Asus\.gradle\caches\transforms-3\fe4974b1caae5369e8ffdd7517499dcd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+133            </intent-filter>
+134        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+135        <activity
+135-->[com.google.android.play:core-common:2.0.2] C:\Users\Asus\.gradle\caches\transforms-3\c0bd14a61cf0464d21a19689e3931f5d\transformed\core-common-2.0.2\AndroidManifest.xml:14:9-18:65
+136            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+136-->[com.google.android.play:core-common:2.0.2] C:\Users\Asus\.gradle\caches\transforms-3\c0bd14a61cf0464d21a19689e3931f5d\transformed\core-common-2.0.2\AndroidManifest.xml:15:13-93
+137            android:exported="false"
+137-->[com.google.android.play:core-common:2.0.2] C:\Users\Asus\.gradle\caches\transforms-3\c0bd14a61cf0464d21a19689e3931f5d\transformed\core-common-2.0.2\AndroidManifest.xml:16:13-37
+138            android:stateNotNeeded="true"
+138-->[com.google.android.play:core-common:2.0.2] C:\Users\Asus\.gradle\caches\transforms-3\c0bd14a61cf0464d21a19689e3931f5d\transformed\core-common-2.0.2\AndroidManifest.xml:17:13-42
+139            android:theme="@style/Theme.PlayCore.Transparent" />
+139-->[com.google.android.play:core-common:2.0.2] C:\Users\Asus\.gradle\caches\transforms-3\c0bd14a61cf0464d21a19689e3931f5d\transformed\core-common-2.0.2\AndroidManifest.xml:18:13-62
+140    </application>
+141
+142</manifest>

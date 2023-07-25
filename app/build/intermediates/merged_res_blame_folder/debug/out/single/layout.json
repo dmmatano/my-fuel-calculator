@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\fragment_fipe.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_fipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\dialog_edit_profile.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\dialog_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\vehicle_item.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\vehicle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\vehicles_bottom_sheet.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\vehicles_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\fuel_cost_item.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fuel_cost_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\fragment_calculator.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\item_vehicle_bottom_sheet.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\item_vehicle_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.myfuelcalculator.app-mergeDebugResources-67:/layout/vehicle_item.xml",
+        "source": "com.example.myfuelcalculator.app-main-70:/layout/vehicle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\fragment_vehicles.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_vehicles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-mergeDebugResources-67:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.example.myfuelcalculator.ui.home.HomeFragmentDirections","com.example.myfuelcalculator.ui.calculator.CalculatorFragmentDirections","com.example.myfuelcalculator.ui.vehicles.VehiclesFragmentDirections","com.example.myfuelcalculator.ui.vehicles.VehiclesFragmentArgs"]}]

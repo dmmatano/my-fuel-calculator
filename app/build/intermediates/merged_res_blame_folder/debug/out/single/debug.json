@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_dialog_edit_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\dialog_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_attach_money_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_car2.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\car2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_carroveio.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\carroveio.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.myfuelcalculator.app-merged_res-68:/layout_vehicle_item.xml.flat",
+        "source": "com.example.myfuelcalculator.app-main-70:/layout/vehicle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\font_poppins_thin.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\font\\poppins_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_vehicle_item.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\vehicle_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_rounded_bg_btn.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\rounded_bg_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_directions_car_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_directions_car_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_mfclogo.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\mfclogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_bike1.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\bike1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_item_vehicle_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\item_vehicle_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_arrow_circle_right_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_arrow_circle_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_car1.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\car1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_vehicles_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\vehicles_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_fragment_vehicles.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_vehicles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_cam1.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\cam1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_avatarexample.jpg.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\avatarexample.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_fragment_fipe.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_fipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_fuel_cost_item.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fuel_cost_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_mfclauncher.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\mfclauncher.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_arrow_circle_left_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_arrow_circle_left_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_mfclogo_night.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\mfclogo_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\layout_fragment_calculator.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\layout\\fragment_calculator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-merged_res-68:\\font_berkshire_swash.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\7.5\\com.example.myfuelcalculator.app-main-70:\\font\\berkshire_swash.xml"
+    }
+]
